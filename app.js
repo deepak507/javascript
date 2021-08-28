@@ -48,12 +48,21 @@ index,length,how to change the index value */
 // }
 // radial();
 
-// var a = " global";
+// hasting
+// lexical envirnoment
 
-// function first() {
-//     var a = " search ";
+console.log(a);
+var a = "sahil";
 
-//     function second() {
-//         console.log(a);
-//     }
-// }
+
+var b = "sahil";
+console.log(b);
+
+
+
+Merge("code", "to");
+
+
+function Merge(param1, parm2) {
+    console.log(param1 + " merge " + parm2);
+}
