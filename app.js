@@ -35,10 +35,15 @@ index,length,how to change the index value */
 // }
 
 // abc();
-function Deepak(parm1, parm2) {
-    var b = parm1 + " love " + parm2;
-    return b;
-}
-Deepak("I", "coding");
+// function Deepak(parm1, parm2) {
+//     var b = parm1 + " love " + parm2;
+//     return b;
+// }
+// var Deepak = Deepak("I", "coding");
 
-console.log(Deepak);
+// console.log(Deepak);
+
+function radial() {
+    console.log(2 + 3);
+}
+radial();
