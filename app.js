@@ -43,7 +43,17 @@ index,length,how to change the index value */
 
 // console.log(Deepak);
 
-function radial() {
-    console.log(2 + 3);
-}
-radial();
+// function radial() {
+//     console.log(2 + 3);
+// }
+// radial();
+
+// var a = " global";
+
+// function first() {
+//     var a = " search ";
+
+//     function second() {
+//         console.log(a);
+//     }
+// }
