@@ -51,18 +51,33 @@ index,length,how to change the index value */
 // hasting
 // lexical envirnoment
 
-console.log(a);
-var a = "sahil";
+// var a = "sahil";
 
 
-var b = "sahil";
-console.log(b);
+// var b = "sahil";
+// console.log(b);
 
 
 
-Merge("code", "to");
+// Merge("code", "to");
 
 
-function Merge(param1, parm2) {
-    console.log(param1 + " merge " + parm2);
-}
+// function Merge(param1, parm2) {
+//     console.log(param1 + " merge " + parm2);
+// }
+
+
+// var a = "global"
+
+// function xYz() {
+//     var a = "fresh"
+
+//     function child() {
+//         console.log(a);
+//     }
+//     return child;
+// }
+
+// var call = xYz();
+// xYz();
+// console.log(a);
