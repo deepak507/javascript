@@ -81,3 +81,30 @@ index,length,how to change the index value */
 // var call = xYz();
 // xYz();
 // console.log(a);
+
+
+
+var a = 5;
+var b = 10
+
+if (a < 3) {
+    console.log("a is smaler than 10");
+} else if (a < b) {
+    console.log("a is smallter than b");
+} else {
+    console.log("a and b is equal");
+}
+
+console.log();
+
+//  or oprertor will check both contdint and prints the output 
+
+// true and true true
+// false and true true
+// true and false true
+// false and false false
+// and operator will check 1st condition is true then check 2nd condition
+// true and true true
+// false and true false
+// true and false true
+// false and false false
