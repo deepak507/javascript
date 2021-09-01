@@ -84,18 +84,18 @@ index,length,how to change the index value */
 
 
 
-var a = 5;
-var b = 10
+// var a = 5;
+// var b = 10
 
-if (a < 3) {
-    console.log("a is smaler than 10");
-} else if (a < b) {
-    console.log("a is smallter than b");
-} else {
-    console.log("a and b is equal");
-}
+// if (a < 3) {
+//     console.log("a is smaler than 10");
+// } else if (a < b) {
+//     console.log("a is smallter than b");
+// } else {
+//     console.log("a and b is equal");
+// }
 
-console.log();
+// console.log();
 
 //  or oprertor will check both contdint and prints the output 
 
