@@ -97,13 +97,15 @@ index,length,how to change the index value */
 
 // console.log();
 
-//  or oprertor will check both contdint and prints the output 
 
+// and operator will check both content and print the output
 // true and true true
 // false and true true
 // true and false true
 // false and false false
-// and operator will check 1st condition is true then check 2nd condition
+
+
+// or operator will check 1st condition is true and then check 2nd condition 
 // true and true true
 // false and true false
 // true and false true

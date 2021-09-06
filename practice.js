@@ -22,16 +22,18 @@
 // }
 // xyz(2, 3);
 
-var a = "deepak";
+// var a = "deepak";
 
-function c() {
-    var a = "bansal";
+// function c() {
+//     var a = "bansal";
 
-    function b() {
-        console.log(a);
-    }
-    return b;
-}
-var xyz = c();
-c();
-console.log(a);
+//     function b() {
+//         console.log(a);
+//     }
+//     return b;
+// }
+// var xyz = c();
+// c();
+// console.log(a);
+
+if a
