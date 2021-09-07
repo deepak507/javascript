@@ -26,7 +26,6 @@
 
 // function c() {
 //     var a = "bansal";
-
 //     function b() {
 //         console.log(a);
 //     }
@@ -34,4 +33,4 @@
 // }
 // var xyz = c();
 // c();
-// console.log(a);
+// console.log(a);  

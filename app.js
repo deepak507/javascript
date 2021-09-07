@@ -113,3 +113,44 @@ index,length,how to change the index value */
 
 // ( "==") will check value are same
 // ( "===") will check all like boolean, string ,numbers
+//  arguments ( parm1 , parm2)
+function xyz(parm1, parm2) {
+    console.log(parm1 + parm2);
+}
+xyz(2, 3)
+
+// var radialCode = {
+//     name: "deepak",
+//     age: 21,
+//     address: "Hisar"
+// }
+// var arr = [1, 2, 3, 4, 5, 6]
+// console.log(radialCode.name)
+// console.log(arr[3])
+
+var radialCode = [{
+    name: "deepak",
+    age: 21,
+    address: "Hisar"
+}, {
+    name: "shiv",
+    age: 25,
+    address: "Chd"
+}]
+
+// console.log(radialCode[)
+
+// function radial(obj) {
+//     var inc = obj[0].age
+//     console.log(inc++)
+// }
+// radial(radialCode)
+
+function comparision(numb1, numb2) {
+    if (numb1 > 3 && numb2 > 4) {
+        console.log("if condition run")
+    } else {
+        console.log("else condition run")
+    }
+}
+comparision(2, 7)
