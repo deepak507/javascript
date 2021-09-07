@@ -35,5 +35,3 @@
 // var xyz = c();
 // c();
 // console.log(a);
-
-if a

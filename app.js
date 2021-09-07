@@ -110,3 +110,6 @@ index,length,how to change the index value */
 // false and true false
 // true and false true
 // false and false false
+
+// ( "==") will check value are same
+// ( "===") will check all like boolean, string ,numbers
